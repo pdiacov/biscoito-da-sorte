@@ -7,7 +7,7 @@ Projeto construído no Stage 05 do Explorer da Rocketseat
 ![preview](./assets/preview.png)
 
 
-<!-- [🔗 Clique aqui para acessar](https://pdiacov.github.io/jogo-da-adivinhacao/) -->
+[🔗 Clique aqui para acessar](https://pdiacov.github.io/biscoito-da-sorte/)
 
 ## Índice
 - [Tecnologias](#tecnologias)
